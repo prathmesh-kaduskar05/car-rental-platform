@@ -1,0 +1,12 @@
+
+
+# hides .env file
+.env
+
+# Deleting Heavy Files (node modules delete)
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Frontend Build folder
+frontend/dist/
