@@ -77,7 +77,7 @@ const CarModel = ({ car, setCars }) => {
           {/* IMAGEURL */}
           <div className="flex items-center gap-2 text-base-content/70">
             <UserCircle className='size-4 text-primary' />
-            <p className="text-sm line-clamp-1">{car.imageUrl}</p>
+            <p className="text-sm line-clamp-1">{car.imageURL}</p>
           </div>
 
           {/* PICKUPDATE */}
