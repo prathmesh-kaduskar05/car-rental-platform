@@ -15,13 +15,6 @@ The **Car Rental Platform** is a full-stack web application designed to simplify
 
 This project follows a modern **monorepo structure** with separate `frontend` and `backend` folders, each independently deployable. The app is fully deployed on **Render** — backend as a Web Service and frontend as a Static Site.
 
-### 🎯 Key Highlights
-- ⚡ Built with **Vite** for lightning-fast development and optimized production builds
-- 🎨 Styled with **Tailwind CSS** for a responsive, mobile-first design
-- 🔗 RESTful API architecture with clean separation of concerns
-- ☁️ Cloud-deployed with environment-based configuration
-- 🔔 Real-time user feedback with **React Hot Toast** notifications
-
 ---
 
 ## 📸 Screenshots
